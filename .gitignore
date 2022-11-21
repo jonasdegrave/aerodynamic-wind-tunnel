@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+## Files that shouldn't be shared:
+Apostila_Lab_AED_11.pdf
